@@ -1,3 +1,7 @@
+# Project settings
+data/
+temp_data_*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
